@@ -1,0 +1,26 @@
+Pastikan dapat 5 Video setiap harinya, atau kalau mau lebih tidak apa apa
+
+H1 :
+1. Hello world
+2. Comment
+3. Number
+4. Math
+5. Variable
+6. String
+7. String Format
+8. Input
+9. Input Number
+10. Boolean
+11. Operator Logika
+12. Operator Perbandingan
+13. If
+14. Else
+
+H2 :
+1. Elif
+2. List
+3. Edit List
+4. For Loop
+5. Range
+
+H3 :
